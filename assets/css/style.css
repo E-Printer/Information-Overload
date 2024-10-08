@@ -14,3 +14,25 @@ body{
     width: 100vw;
     height: auto;
 }
+
+/*--------------------------------Nav*/
+
+/*--------------------------------main*/
+
+main{
+    background-color: aqua;
+    height: 100vh;
+    width: 100vw;
+}
+
+/*--------------------------------main*/
+
+/*--------------------------------footer*/
+
+footer{
+    background-color: bisque;
+    width: 100vw;
+    height: 50px;
+}
+
+/*--------------------------------footer*/
